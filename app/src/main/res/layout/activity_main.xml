@@ -31,11 +31,11 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvItems"
-        android:layout_width="342dp"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="732dp"
         android:layout_above="@+id/etItem"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="19dp"
+        android:layout_marginTop="0dp"
         android:layout_marginBottom="20dp" />
 </RelativeLayout>
